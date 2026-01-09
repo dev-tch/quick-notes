@@ -18,12 +18,11 @@ ng g c compositions/rfp-suppliers --project=lbc-pages
 
 ```
 ng g cl class-model-name  --type=model
-
 ```
 
 demo: 
 
-npx ng g cl models/supplierData --type=model --project=lbc-pages
+ng g cl models/supplierData --type=model --project=lbc-pages
 
 
 --skip-tests : to skip test 
