@@ -1,4 +1,4 @@
-## command to generate service
+## local config to call the rephrase end point for public rfp
 
 - project : rise-source-manager
 
