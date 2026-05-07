@@ -1,7 +1,8 @@
 ## command to generate service
 
-project : rise-source-manager
-file: CvMatcherRestServiceImpl.java 
+- project : rise-source-manager
+
+- file: CvMatcherRestServiceImpl.java 
 
 ```
 this.authUrl = "https://source-development-hotel.argocd.littlebig.team/internal/api/login/v1/oauth/token";
